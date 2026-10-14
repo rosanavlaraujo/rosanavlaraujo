@@ -1,3 +1,5 @@
+![Banner Rosana Araújo](./banner.png)
+
 <div align="center">
 
 # 💜 Olá, eu me chamo Rosana!
