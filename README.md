@@ -61,36 +61,6 @@ Aplicação desktop para monitoramento de máquinas e endereços IP.
 
 **Funcionalidades:** Verificação de ping, dashboard, histórico, filtros e alertas.
 
-### 🎓 UniTrack — Gestão de Projetos Acadêmicos
-
-Sistema planejado para acompanhar a evolução dos projetos universitários.
-
-**Funcionalidades previstas:** Gestão de tarefas, prazos, notas acadêmicas e pontuações por atividades.
-
-**Foco:** Organização, produtividade e acompanhamento de projetos.
-
-### 💅 Studio Miriele Souza — Gestão e Agendamentos
-
-Projeto de sistema para gerenciamento de um estúdio de beleza.
-
-**Funcionalidades planejadas:** Agendamentos, notificações, cadastro de clientes e pedidos de produtos home care.
-
-**Foco:** Análise de requisitos, experiência do usuário e soluções de negócio.
-
-### 🍫 Nana Sweets — Doceria Digital
-
-Projeto de site para uma doceria, com catálogo de produtos e carrinho de compras.
-
-**Funcionalidades planejadas:** Vitrine digital, seleção de produtos e finalização de pedidos pelo WhatsApp.
-
-**Foco:** Desenvolvimento web e experiência de compra.
-
-### 🎫 NassauTickets — Sistema de Chamados
-
-Projeto acadêmico de gerenciamento de chamados e organização do atendimento.
-
-**Minha atuação:** Documentação de requisitos e casos de uso.
-
 ---
 
 ## 📊 Estatísticas do GitHub
