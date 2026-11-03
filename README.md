@@ -59,13 +59,19 @@ Aplicação desktop para monitoramento de máquinas e endereços IP.
 
 ## 📈 Atividade no GitHub
 
+
+<h2>💜 Explore meus projetos</h2>
+
 <div align="center">
 
-### 💜 Minha jornada no desenvolvimento
+<p>
+Conheça alguns dos projetos que desenvolvi e acompanhe
+minha evolução em desenvolvimento de software e análise de sistemas.
+</p>
 
-Acompanhe meus projetos, contribuições e evolução na programação.
-
-[![GitHub](https://img.shields.io/badge/VER_MINHAS_CONTRIBUIÇÕES-21152E?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/rosanavlaraujo)
+<a href="https://github.com/rosanavlaraujo?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORAR_PROJETOS-21152E?style=for-the-badge&logo=github&logoColor=C084FC" alt="Explorar projetos"/>
+</a>
 
 </div>
 
