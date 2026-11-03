@@ -41,3 +41,13 @@
 💜 Feito com dedicação e muita vontade de aprender!
 
 </div>
+
+### 📊 Minhas estatísticas
+
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=rosanavlaraujo&show_icons=true&theme=midnight-purple)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rosanavlaraujo&layout=compact&theme=midnight-purple)
+
+</div>
