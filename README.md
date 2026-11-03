@@ -35,12 +35,6 @@ Gosto de transformar ideias em projetos reais, desde o levantamento de requisito
 
 </div>
 
-### 📚 Atualmente estudando
-
-![Angular](https://img.shields.io/badge/Angular-21152E?style=for-the-badge&logo=angular&logoColor=C084FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-21152E?style=for-the-badge&logo=typescript&logoColor=C084FC)
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-21152E?style=for-the-badge&logoColor=C084FC)
-
 ---
 
 ## 🚀 Projetos em destaque
@@ -63,13 +57,15 @@ Aplicação desktop para monitoramento de máquinas e endereços IP.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rosanavlaraujo&show_icons=true&theme=midnight-purple&hide_border=true" alt="Estatísticas do GitHub"/>
+### 💜 Minha jornada no desenvolvimento
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanavlaraujo&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens mais utilizadas"/>
+Acompanhe meus projetos, contribuições e evolução na programação.
+
+[![GitHub](https://img.shields.io/badge/VER_MINHAS_CONTRIBUIÇÕES-21152E?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/rosanavlaraujo)
 
 </div>
 
